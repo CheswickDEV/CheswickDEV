@@ -13,7 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/timb0j0nes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timb0j0nes" height="30" width="40" /></a>
-<a href="https://instagram.com/_timbo_jones_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_timbo_jones_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ultrawidemasterrace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ultrawidemasterrace" height="30" width="40" /></a>
 <a href="https://discord.gg/cheswick#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cheswick#0001" height="30" width="40" /></a>
 </p>
