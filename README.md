@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=300&section=header&text=Cheswick.dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Code.%20Create.%20Explore.&descAlignY=51&descAlign=62&fontColor=00d4ff" width="100%"/>
+</div>
 
-<!--
-**CheswickDEV/CheswickDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi 👋, I'm Cheswick</h1>
+<h3 align="left">Tech-Enthusiast, Vibecoder & Keyboard Enthusiast</h3>
 
-Here are some ideas to get you started:
+<div align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding Aesthetic" width="350" src="https://i.pinimg.com/originals/a4/09/2d/a4092cf6d68d18409b83b8c25785f75e.gif" style="border-radius: 20px" />
+
+<p>
+Welcome to my digital playground. I love optimizing things whether it's the perfect mechanical keyboard, a monitor setup, or an elegant code solution.
+</p>
+
+- 🔭 I’m currently working on **<a href="https://github.com/CheswickDEV/Kleinanzeigen-Filter">Kleinanzeigen-Filter</a>** (Anti-Scalper Tool)
+- 🌱 I’m currently exploring **Ansible, Powershell & AI LLMs**
+- ⌨️ Passionate about **Mechanical Keyboards & Custom Builds**
+- 🌍 Location: **Germany**
+
+<br>
+
+<a href="https://cheswick.dev">
+  <img src="https://img.shields.io/badge/VISIT_MY_DIGITAL_PLAYGROUND-cheswick.dev-00d4ff?style=for-the-badge&logo=firefox&logoColor=0a0a0f&labelColor=a855f7" alt="Website" />
+</a>
+
+</div>
+
+<br clear="right"/>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerShell-0a0a0f?style=for-the-badge&logo=powershell&logoColor=00d4ff&border=00d4ff" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00d4ff" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=a855f7" alt="JS" />
+  <img src="https://img.shields.io/badge/Bash-0a0a0f?style=for-the-badge&logo=gnu-bash&logoColor=a855f7" alt="Bash" />
+  <img src="https://img.shields.io/badge/VS_Code-0a0a0f?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff" alt="VSCode" />
+  <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+<h3 align="left">🔥 Featured Repositories</h3>
+
+<div align="left">
+  
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[🛡️ Kleinanzeigen-Filter](https://github.com/CheswickDEV/Kleinanzeigen-Filter)** | Browser extension to filter bots & scalpers by registration date. | `JavaScript` `Firefox` |
+| **[📊 SCOM-CCS-Monitoring](https://github.com/CheswickDEV/SCOM-CCS-Monitoring)** | Custom monitoring solutions for SCOM environments. | `PowerShell` |
+| **[📥 .net-Remote-Installer](https://github.com/CheswickDEV/.net-Remote-Installer)** | Remote installation automation tool. | `PowerShell` |
+| **[⚔️ WoWProgress-Scraper](https://github.com/CheswickDEV/WoWProgress-Scraper)** | Data scraper for WoW progress tracking. | `Python` |
+
+</div>
+
+---
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+<div align="left">
+<a href="https://github.com/CheswickDEV">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CheswickDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=a855f7&text_color=f0f0f5" alt="CheswickDEV Stats" height="180"/>
+</a>
+<a href="https://github.com/CheswickDEV">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheswickDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=f0f0f5" alt="Top Languages" height="180"/>
+</a>
+</div>
+<br clear="all"/>
+<br>
+
+<h3 align="left">📫 Connect with me</h3>
+<p align="left">
+<a href="https://twitter.com/timb0j0nes" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-0a0a0f?style=flat&logo=x&logoColor=white" alt="timb0j0nes" /></a>
+<a href="mailto:cheswick@ultrawidemasterrace.net"><img align="center" src="https://img.shields.io/badge/Email-0a0a0f?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://cheswick.dev"><img align="center" src="https://img.shields.io/badge/Portfolio-0a0a0f?style=flat&logo=firefox&logoColor=white" alt="website" /></a>
+</p>
