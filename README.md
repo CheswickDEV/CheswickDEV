@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=300&section=header&text=Cheswick.dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Code.%20Create.%20Explore.&descAlignY=51&descAlign=62&fontColor=00d4ff" width="100%"/>
+  <img src="./header.png" width="100%" alt="Cheswick.dev Header" style="border-radius: 20px"/>
+</div>
+
+<div align="center">
+  <p>
+    <a href="https://cheswick.dev">
+      <img src="https://img.shields.io/badge/DIGITAL_PLAYGROUND-cheswick.dev-16161f?style=flat-square&logo=firefox&logoColor=00d4ff&labelColor=16161f&border=00d4ff" alt="Website" />
+    </a>
+    </p>
 </div>
 
 <h1 align="left">Hi 👋, I'm Cheswick</h1>
@@ -33,12 +41,12 @@ Welcome to my digital playground. I love optimizing things whether it's the perf
 <h3 align="left">🛠️ Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-0a0a0f?style=for-the-badge&logo=powershell&logoColor=00d4ff&border=00d4ff" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00d4ff" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=a855f7" alt="JS" />
-  <img src="https://img.shields.io/badge/Bash-0a0a0f?style=for-the-badge&logo=gnu-bash&logoColor=a855f7" alt="Bash" />
-  <img src="https://img.shields.io/badge/VS_Code-0a0a0f?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff" alt="VSCode" />
-  <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PowerShell-16161f?style=for-the-badge&logo=powershell&logoColor=00d4ff&border=00d4ff" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Python-16161f?style=for-the-badge&logo=python&logoColor=00d4ff" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-16161f?style=for-the-badge&logo=javascript&logoColor=a855f7" alt="JS" />
+  <img src="https://img.shields.io/badge/Bash-16161f?style=for-the-badge&logo=gnu-bash&logoColor=a855f7" alt="Bash" />
+  <img src="https://img.shields.io/badge/VS_Code-16161f?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff" alt="VSCode" />
+  <img src="https://img.shields.io/badge/GitHub-16161f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -73,7 +81,7 @@ Welcome to my digital playground. I love optimizing things whether it's the perf
 
 <h3 align="left">📫 Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/timb0j0nes" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-0a0a0f?style=flat&logo=x&logoColor=white" alt="timb0j0nes" /></a>
-<a href="mailto:cheswick@ultrawidemasterrace.net"><img align="center" src="https://img.shields.io/badge/Email-0a0a0f?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://cheswick.dev"><img align="center" src="https://img.shields.io/badge/Portfolio-0a0a0f?style=flat&logo=firefox&logoColor=white" alt="website" /></a>
+<a href="https://twitter.com/timb0j0nes" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-16161f?style=flat&logo=x&logoColor=white" alt="timb0j0nes" /></a>
+<a href="mailto:cheswick@ultrawidemasterrace.net"><img align="center" src="https://img.shields.io/badge/Email-16161f?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://cheswick.dev"><img align="center" src="https://img.shields.io/badge/Portfolio-16161f?style=flat&logo=firefox&logoColor=white" alt="website" /></a>
 </p>
