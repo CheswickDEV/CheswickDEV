@@ -21,8 +21,8 @@
 Welcome to my digital playground. I love optimizing things whether it's the perfect mechanical keyboard, a monitor setup, or an elegant code solution.
 </p>
 
-- 🔭 I’m currently working on **<a href="https://github.com/CheswickDEV/Fleets-Enhanced">Fleets Enhanced</a>** 
-- 🌱 I’m currently exploring **Ansible, Powershell & AI LLMs**
+- 🔭 I'm currently working on **<a href="https://github.com/CheswickDEV/Fleets-Enhanced">Fleets Enhanced</a>**
+- 🌱 I'm currently exploring **Ansible, Powershell & AI LLMs**
 - ⌨️ Passionate about **Mechanical Keyboards & Custom Builds**
 - 🌍 Location: **Germany**
 
@@ -54,13 +54,14 @@ Welcome to my digital playground. I love optimizing things whether it's the perf
 <h3 align="left">🔥 Featured Repositories</h3>
 
 <div align="left">
-  
+
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[🛡️ Kleinanzeigen-Filter](https://github.com/CheswickDEV/Kleinanzeigen-Filter)** | Browser extension to filter bots & scalpers by registration date. | `JavaScript` `Firefox` |
-| **[📊 SCOM-CCS-Monitoring](https://github.com/CheswickDEV/SCOM-CCS-Monitoring)** | Custom monitoring solutions for SCOM environments. | `PowerShell` |
-| **[📥 .net-Remote-Installer](https://github.com/CheswickDEV/.net-Remote-Installer)** | Remote installation automation tool. | `PowerShell` |
-| **[⚔️ WoWProgress-Scraper](https://github.com/CheswickDEV/WoWProgress-Scraper)** | Data scraper for WoW progress tracking. | `Python` |
+| **[🧠 Claude Prompt Optimizer](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer)** | Meta-prompting system that transforms raw prompts into production-ready, XML-structured prompts. | `AI` `Prompt Engineering` |
+| **[🚗 Fleets Enhanced](https://github.com/CheswickDEV/Fleets-Enhanced)** | Firefox extension for fleet management with availability heatmaps and tax benefit calculations. | `JavaScript` `Firefox` |
+| **[🎬 YT Comment Timeline](https://github.com/CheswickDEV/Youtube-Comment-Timeline-Overlay)** | Visualize YouTube comments directly on the video timeline with timestamp markers. | `JavaScript` `Firefox` |
+| **[🛡️ Kleinanzeigen Filter](https://github.com/CheswickDEV/Kleinanzeigen-Filter)** | Filter bots & scalpers on Kleinanzeigen.de by seller registration date. | `JavaScript` `Firefox` |
+
 
 </div>
 
