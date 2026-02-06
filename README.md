@@ -5,7 +5,7 @@
 <div align="center">
   <p>
     <a href="https://cheswick.dev">
-      <img src="https://img.shields.io/badge/DIGITAL_PLAYGROUND-cheswick.dev-16161f?style=flat-square&logo=firefox&logoColor=00d4ff&labelColor=16161f&border=00d4ff" alt="Website" />
+      <img src="https://img.shields.io/badge/DIGITAL_PLAYGROUND-cheswick.dev-16161f?logo=firefox&logoColor=00d4ff&labelColor=16161f&border=00d4ff" alt="Website" />
     </a>
     </p>
 </div>
@@ -29,7 +29,7 @@ Welcome to my digital playground. I love optimizing things whether it's the perf
 <br>
 
 <a href="https://cheswick.dev">
-  <img src="https://img.shields.io/badge/VISIT_MY_DIGITAL_PLAYGROUND-cheswick.dev-00d4ff?style=for-the-badge&logo=firefox&logoColor=0a0a0f&labelColor=a855f7" alt="Website" />
+  <img src="https://img.shields.io/badge/VISIT_MY_DIGITAL_PLAYGROUND-cheswick.dev-00d4ff?logo=firefox&logoColor=0a0a0f&labelColor=a855f7" alt="Website" />
 </a>
 
 </div>
@@ -41,12 +41,12 @@ Welcome to my digital playground. I love optimizing things whether it's the perf
 <h3 align="left">🛠️ Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-16161f?style=for-the-badge&logo=powershell&logoColor=00d4ff&border=00d4ff" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Python-16161f?style=for-the-badge&logo=python&logoColor=00d4ff" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-16161f?style=for-the-badge&logo=javascript&logoColor=a855f7" alt="JS" />
-  <img src="https://img.shields.io/badge/Bash-16161f?style=for-the-badge&logo=gnu-bash&logoColor=a855f7" alt="Bash" />
-  <img src="https://img.shields.io/badge/VS_Code-16161f?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff" alt="VSCode" />
-  <img src="https://img.shields.io/badge/GitHub-16161f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PowerShell-16161f?logo=powershell&logoColor=00d4ff&border=00d4ff" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Python-16161f?logo=python&logoColor=00d4ff" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-16161f?logo=javascript&logoColor=a855f7" alt="JS" />
+  <img src="https://img.shields.io/badge/Bash-16161f?logo=gnu-bash&logoColor=a855f7" alt="Bash" />
+  <img src="https://img.shields.io/badge/VS_Code-16161f?logo=visual-studio-code&logoColor=00d4ff" alt="VSCode" />
+  <img src="https://img.shields.io/badge/GitHub-16161f?logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
