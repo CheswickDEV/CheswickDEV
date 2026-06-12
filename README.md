@@ -1,88 +1,79 @@
 <div align="center">
-  <img src="./header.png" width="100%" alt="Cheswick.dev Header" style="border-radius: 20px"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:a855f7&height=210&section=header&text=Hi%2C%20I'm%20Cheswick&fontSize=56&fontColor=0a0a0f&fontAlignY=36&desc=vibe-coder%20%C2%B7%20keyboard%20enthusiast%20%C2%B7%20serial%20optimizer&descSize=20&descAlignY=58&animation=fadeIn&fontFamily=-apple-system,%20BlinkMacSystemFont,%20Segoe%20UI,%20Helvetica%20Neue,%20sans-serif" alt="Hi, I'm Cheswick. Vibe-coder, keyboard enthusiast, serial optimizer" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+tools+for+the+Claude+ecosystem;Prompt+optimizers+%C2%B7+Firefox+extensions+%C2%B7+keyboards;Will+optimize+anything+that+holds+still" alt="Building tools for the Claude ecosystem" />
+
+<br/>
+
+[![Website](https://img.shields.io/badge/Digital_Playground-cheswick.dev-0071e3?style=flat&logo=firefox&logoColor=white&labelColor=1d1d1f)](https://cheswick.dev)
+![Visitors](https://komarev.com/ghpvc/?username=CheswickDEV&label=Visitors&color=0071e3&style=flat)
+
 </div>
+
+Welcome to my digital playground. I like optimizing things: mechanical keyboards, monitor setups, prompts, the occasional elegant code solution. Lately most of that energy goes into tooling for Anthropic's Claude, with prompt optimizers grounded in official docs instead of vibes (ironic for a vibe-coder, I know), and a Firefox extension that makes claude.ai a nicer place to live.
+
+- 🔭 Right now: **[Claude Fable 5 Prompt Optimizer](https://github.com/CheswickDEV/claude-fable-5-prompt-optimizer)**, fresh from Fable 5 launch week
+- 🌱 Exploring: prompt engineering for Claude models, plus Ansible & PowerShell automation
+- ⌨️ Passionate about mechanical keyboards & custom builds
+- 📍 Based in Germany
+
+---
+
+### 🛠️ Tech I actually use
 
 <div align="center">
-  <p>
-    <a href="https://cheswick.dev">
-      <img src="https://img.shields.io/badge/DIGITAL_PLAYGROUND-cheswick.dev-16161f?logo=firefox&logoColor=00d4ff&labelColor=16161f&border=00d4ff" alt="Website" />
-    </a>
-    </p>
-</div>
 
-<h1 align="left">Hi 👋, I'm Cheswick</h1>
-<h3 align="left">Tech-Enthusiast, Vibecoder & Keyboard Enthusiast</h3>
-
-<div align="left">
-
-<img align="right" alt="Coding Aesthetic" width="350" src="https://i.pinimg.com/originals/a4/09/2d/a4092cf6d68d18409b83b8c25785f75e.gif" style="border-radius: 20px" />
-
-<p>
-Welcome to my digital playground. I love optimizing things whether it's the perfect mechanical keyboard, a monitor setup, or an elegant code solution.
-</p>
-
-- 🔭 I'm currently working on **<a href="https://github.com/CheswickDEV/Fleets-Enhanced">Fleets Enhanced</a>**
-- 🌱 I'm currently exploring **Ansible, Powershell & AI LLMs**
-- ⌨️ Passionate about **Mechanical Keyboards & Custom Builds**
-- 🌍 Location: **Germany**
-
-<br>
-
-<a href="https://cheswick.dev">
-  <img src="https://img.shields.io/badge/VISIT_MY_DIGITAL_PLAYGROUND-cheswick.dev-00d4ff?logo=firefox&logoColor=0a0a0f&labelColor=a855f7" alt="Website" />
-</a>
-
-</div>
-
-<br clear="right"/>
-
----
-
-<h3 align="left">🛠️ Languages and Tools</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-16161f?logo=powershell&logoColor=00d4ff&border=00d4ff" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Python-16161f?logo=python&logoColor=00d4ff" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-16161f?logo=javascript&logoColor=a855f7" alt="JS" />
-  <img src="https://img.shields.io/badge/Bash-16161f?logo=gnu-bash&logoColor=a855f7" alt="Bash" />
-  <img src="https://img.shields.io/badge/VS_Code-16161f?logo=visual-studio-code&logoColor=00d4ff" alt="VSCode" />
-  <img src="https://img.shields.io/badge/GitHub-16161f?logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-<h3 align="left">🔥 Featured Repositories</h3>
-
-<div align="left">
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[🧠 Claude Prompt Optimizer](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer)** | Meta-prompting system that transforms raw prompts into production-ready, XML-structured prompts. | `AI` `Prompt Engineering` |
-| **[🚗 Fleets Enhanced](https://github.com/CheswickDEV/Fleets-Enhanced)** | Firefox extension for fleet management with availability heatmaps and tax benefit calculations. | `JavaScript` `Firefox` |
-| **[🎬 YT Comment Timeline](https://github.com/CheswickDEV/Youtube-Comment-Timeline-Overlay)** | Visualize YouTube comments directly on the video timeline with timestamp markers. | `JavaScript` `Firefox` |
-| **[🛡️ Kleinanzeigen Filter](https://github.com/CheswickDEV/Kleinanzeigen-Filter)** | Filter bots & scalpers on Kleinanzeigen.de by seller registration date. | `JavaScript` `Firefox` |
-
+![PowerShell](https://img.shields.io/badge/PowerShell-1d1d1f?style=flat&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1d1d1f?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d1d1f?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1d1d1f?style=flat&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1d1d1f?style=flat&logo=gnu-bash&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-1d1d1f?style=flat&logo=claude&logoColor=white)
+![Firefox Add-ons](https://img.shields.io/badge/Firefox_Add--ons-1d1d1f?style=flat&logo=firefox&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1d1d1f?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1d1d1f?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1d1d1f?style=flat&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
+### 🔥 Featured projects
 
-<div align="left">
-<a href="https://github.com/CheswickDEV">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CheswickDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=a855f7&text_color=f0f0f5" alt="CheswickDEV Stats" height="180"/>
-</a>
-<a href="https://github.com/CheswickDEV">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheswickDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=f0f0f5" alt="Top Languages" height="180"/>
-</a>
+| Project | What it does | Tech |
+| ------- | ------------ | ---- |
+| 🧠 **[Claude Fable 5 Prompt Optimizer](https://github.com/CheswickDEV/claude-fable-5-prompt-optimizer)** 🆕 | A claude.ai Project that turns any raw prompt into a Fable-5-ready one: 43 source-backed rules, complexity routing and API parameter recommendations, grounded entirely in official Anthropic docs. | `AI` `Prompt Engineering` |
+| ⚡ **[Claude Opus 4.8 Prompt Optimizer](https://github.com/CheswickDEV/claude-opus-4.8-prompt-optimizer)** | The same idea tuned for Opus 4.8: 11 rules, complexity-based routing and a hard `prompt:` trigger that rewrites raw input into production-ready, XML-structured prompts. | `AI` `Prompt Engineering` |
+| 🧭 **[Claude Voyager](https://github.com/CheswickDEV/Claude-Voyager)** | A Firefox extension that upgrades claude.ai with folders, a prompt library, a conversation timeline and chat export. | `TypeScript` `Firefox` |
+
+<sub>Earlier optimizer editions ([Opus 4.7](https://github.com/CheswickDEV/claude-opus-4.7-prompt-optimizer) · [Opus 4.6](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer)) and a drawer full of Firefox extensions ([Fleets Enhanced](https://github.com/CheswickDEV/Fleets-Enhanced), [YouTube Comment Timeline](https://github.com/CheswickDEV/Youtube-Comment-Timeline-Overlay), [Kleinanzeigen Filter](https://github.com/CheswickDEV/Kleinanzeigen-Filter)) live in [the full repo list](https://github.com/CheswickDEV?tab=repositories).</sub>
+
+> ⭐ Stars make my day, 🐛 issues make the tools better, and 🔧 PRs make my week. All three are very welcome.
+
+---
+
+### 📈 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CheswickDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=a855f7&text_color=f0f0f5" alt="CheswickDEV's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheswickDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=f0f0f5" alt="Top languages" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=CheswickDEV&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff" alt="GitHub streak" />
+
 </div>
-<br clear="all"/>
-<br>
 
-<h3 align="left">📫 Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/timb0j0nes" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-16161f?style=flat&logo=x&logoColor=white" alt="timb0j0nes" /></a>
-<a href="mailto:cheswick@ultrawidemasterrace.net"><img align="center" src="https://img.shields.io/badge/Email-16161f?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://cheswick.dev"><img align="center" src="https://img.shields.io/badge/Portfolio-16161f?style=flat&logo=firefox&logoColor=white" alt="website" /></a>
-</p>
+---
+
+### 📫 Connect with me
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/@timb0j0nes-1d1d1f?style=flat&logo=x&logoColor=white)](https://twitter.com/timb0j0nes)
+[![Email](https://img.shields.io/badge/Email-1d1d1f?style=flat&logo=gmail&logoColor=white)](mailto:cheswick@ultrawidemasterrace.net)
+[![Website](https://img.shields.io/badge/cheswick.dev-0071e3?style=flat&logo=firefox&logoColor=white)](https://cheswick.dev)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:a855f7&height=110&section=footer" alt="" width="100%" />
+
+</div
